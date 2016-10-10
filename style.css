@@ -1,0 +1,21 @@
+﻿body {
+    background-color: gold;
+}
+
+#result {
+    border: 1px solid green;
+    float: left;
+    width: 200px;
+}
+
+.button {
+    float: left;
+    width: 30px;
+    border: 1px solid red;
+    height:30px;
+}
+
+.row {
+    float: left;
+    clear: left;
+}
